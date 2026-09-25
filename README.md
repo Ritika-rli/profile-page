@@ -24,7 +24,7 @@ This is my first web development project. I created this page to practice HTML s
 
 ## 🌐 Live Website
 
-[View Live Website](YOUR_GITHUB_PAGES_LINK)
+[View Live Website](https://ritika-rli.github.io/profile-page/)
 
 ## 👩‍💻 Author
 
